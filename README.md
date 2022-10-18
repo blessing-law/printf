@@ -1,3 +1,3 @@
 Printf group project
-Printf project collaboration
-Git clone completed
+
+Create your own prinf function using only one repository per team while callborating to answer the given tasks.
